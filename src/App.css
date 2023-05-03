@@ -1,0 +1,25 @@
+.active{
+  color: red!important;
+  border-bottom: 1px solid red;
+}
+.navbar a{
+  text-transform: uppercase;
+}
+.navbar-expand-lg .navbar-nav{
+  margin-left: auto;
+}
+.navbar-toggler{
+  background-color: #000!important;
+    border: 1px solid red!important;
+}
+.navbar-toggler-icon{
+  color: red!important;
+}
+.navbar-brand{
+  border: none;
+}
+.navbar-brand img{
+  width: 100px;
+  height: auto;
+  border: none!important;
+}
